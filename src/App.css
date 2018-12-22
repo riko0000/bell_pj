@@ -1,0 +1,30 @@
+circle {
+    fill: #EBCA1B;
+    r: 40px;
+    filter: drop-shadow(10px 10px 10px rgba(0,0,0,0.6));
+}
+
+svg {
+  height: 800px;
+  width: 700px;
+}
+
+#root{
+  float: left;
+  margin: 0 auto;
+  height: 800px;
+  width: 700px;
+  background-color: #ffffff;
+  background-image: url(./image/920128.jpg);
+  background-repeat: no-repeat;
+  background-position: left top;
+}
+.App{
+  height: 800px;
+  width: 700px;
+}
+
+#title{
+  float: left;
+  width: 150px;
+}
