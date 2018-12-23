@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/bell_pj/static/js/runtime~main.f69d6bb0.js"
   },
   {
-    "revision": "24c40009bda638b61d84",
-    "url": "/bell_pj/static/js/main.24c40009.chunk.js"
+    "revision": "5daa164fa3cbedc0a661",
+    "url": "/bell_pj/static/js/main.5daa164f.chunk.js"
   },
   {
     "revision": "d9368836f5fd68cb464e",
     "url": "/bell_pj/static/js/1.d9368836.chunk.js"
   },
   {
-    "revision": "24c40009bda638b61d84",
-    "url": "/bell_pj/static/css/main.eb664638.chunk.css"
+    "revision": "5daa164fa3cbedc0a661",
+    "url": "/bell_pj/static/css/main.63baa8df.chunk.css"
   },
   {
-    "revision": "8d1f483a7db45641c7601d4f75816cfd",
+    "revision": "e47fd59f4383dec898a00bda60345932",
     "url": "/bell_pj/index.html"
   }
 ];
