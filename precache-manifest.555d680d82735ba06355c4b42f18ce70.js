@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/bell_pj/static/css/main.5baca3f7.chunk.css"
   },
   {
-    "revision": "c1a6528cdfc4f52d1f1411de19bd37fa",
+    "revision": "36038a39f997d04a7d7aa6eed9ae3cb6",
     "url": "/bell_pj/index.html"
   }
 ];
