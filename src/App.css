@@ -2,7 +2,7 @@ circle {
     fill: #EBCA1B;
     r: 40px;
     filter: drop-shadow(10px 10px 10px rgba(0,0,0,0.6));
-    cursor:pointer;
+    cursor: pointer;
 }
 
 svg {

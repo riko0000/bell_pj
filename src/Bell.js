@@ -12,7 +12,12 @@ export default class Bell extends Component {
       <Motion
         defaultStyle ={{ cx : this.state.circleX }} style ={{ cx : spring((this.state.circleX + 15), {stiffness: this.state.sf, damping: this.state.dp}) }}>
         {interpolatingStyle =>
-            <circle onMouseDown={this.onClickCircle.bind()} onMouseUp={this.onEndOfClick.bind()} cx = {interpolatingStyle.cx} cy={this.props.y} />
+            <circle
+            onMouseDown={this.onClickCircle.bind()}
+            onMouseUp={this.onEndOfClick.bind()}
+            onTouchStart={this.onClickCircle.bind()}
+            onTouchEnd={this.onEndOfClick.bind()}
+            cx = {interpolatingStyle.cx} cy={this.props.y} />
           }
       </Motion>
     )
